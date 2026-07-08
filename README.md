@@ -276,31 +276,6 @@ A classification system designed to flag potentially misleading or false informa
 
 ---
 
-<h2 align="center">📊 GitHub Analytics</h2>
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Parneet22Singh&show_icons=true&theme=radical&hide_border=true&bg_color=0F0524&title_color=B983FF&icon_color=9D4EDD&text_color=E0AAFF"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Parneet22Singh&theme=radical&hide_border=true&background=0F0524&stroke=9D4EDD&ring=B983FF&fire=B983FF&currStreakLabel=E0AAFF"/>
-
-<br/>
-
-<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parneet22Singh&layout=compact&theme=radical&hide_border=true&bg_color=0F0524&title_color=B983FF&text_color=E0AAFF"/>
-
-</div>
-
----
-
-<h2 align="center">🏅 GitHub Trophies</h2>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Parneet22Singh&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10"/>
-
-</div>
-
----
-
 <h2 align="center">📈 Contribution Activity</h2>
 
 <div align="center">

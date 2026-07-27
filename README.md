@@ -211,7 +211,7 @@ A classification system designed to flag potentially misleading or false informa
 
 <h2 align="center">💼 Experience</h2>
 
-**Tech Intern — Square Yards**
+**Tech Intern - Square Yards**
 *Selenium Automation & AI-Driven Web Engineering*
 
 - Developed and maintained end-to-end **UI automation frameworks** using Java, Selenium WebDriver, TestNG, and Maven.
@@ -225,7 +225,7 @@ A classification system designed to flag potentially misleading or false informa
 
 <br/>
 
-**AI/ML Intern — UnsaidTalks**
+**AI/ML Intern - UnsaidTalks**
 *Retrieval-Augmented Generation & LLM Workflow Automation*
 
 - Built **RAG systems** using LangChain, Pinecone, and the Gemini API.

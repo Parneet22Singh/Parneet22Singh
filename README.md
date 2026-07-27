@@ -242,8 +242,8 @@ A classification system designed to flag potentially misleading or false informa
 
 | Recognition | Details |
 |---|---|
-| AI/ML Internship Completion | UnsaidTalks — RAG & LLM workflow engineering |
-| Automation Engineering Experience | Square Yards — production-grade QA automation |
+| AI/ML Internship Completion | UnsaidTalks - RAG & LLM workflow engineering |
+| Automation Engineering Experience | Square Yards - production-grade automation, software and AI solutions |
 | Multi-domain Project Portfolio | 7+ AI, full-stack, and automation projects delivered |
 
 </div>
